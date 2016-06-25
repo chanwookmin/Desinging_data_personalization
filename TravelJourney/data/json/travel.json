@@ -1,0 +1,149 @@
+{
+	"editDate":"2015_09_08",
+	"dataAbout":"travel",
+	"countryData":["Germany", "Belgium", "Netherland", "Italy"],
+	"countryCode":["de", "be", "nl", "it"],
+	"travelData":[
+		{	
+			"countryCode":"de",
+			"city":"Dusseldorf",
+			"companion":"Hyunjin",
+			"tDate":"2015-05-23",
+			"tDescription":"Alt Beer"
+			},
+		
+		{	
+			"countryCode":"de",
+			"city":"Dusseldorf",
+			"companion":"Hyunjin, Her Friends",
+			"tDate":"2015-05-24",
+			"tDescription":"House Party"
+		},
+		{	
+			"countryCode":"de",
+			"city":"Dusseldorf",
+			"companion":"Hyunjin",
+			"tDate":"2015-05-25",
+			"tDescription":"Rhine River"
+		},
+		{	
+			"countryCode":"de",
+			"city":"Stuttgart",
+			"companion":"Hyunjin",
+			"tDate":"2015-05-26",
+			"tDescription":"Autoban"
+		},
+		{	
+			"countryCode":"de",
+			"city":"karlsruhe",
+			"companion":"Hyunjin",
+			"tDate":"2015-05-27",
+			"tDescription":"White Wine"
+		},
+		{	
+			"countryCode":"de",
+			"city":"karlsruhe",
+			"companion":"Hyunjin",
+			"tDate":"2015-05-28",
+			"tDescription":"Media Art, ZKM"
+		},
+		{	
+			"countryCode":"de",
+			"city":"Baden-Baden",
+			"companion":"Hyunjin",
+			"tDate":"2015-05-29",
+			"tDescription":"Spa"
+		},
+		{	
+			"countryCode":"it",
+			"city":"Venice",
+			"companion":"Hyunjin",
+			"tDate":"2015-05-30",
+			"tDescription":"Venice Biennale"
+		},
+		{	
+			"countryCode":"it",
+			"city":"Venice",
+			"companion":"Hyunjin",
+			"tDate":"2015-05-31",
+			"tDescription":"Fancy Seafood"
+		},
+		{	
+			"countryCode":"it",
+			"city":"Venice",
+			"companion":"Hyunjin",
+			"tDate":"2015-06-01",
+			"tDescription":"Cheap and Good Wine"
+		},
+		{	
+			"countryCode":"it",
+			"city":"Verona",
+			"companion":"Hyunjin",
+			"tDate":"2015-06-02",
+			"tDescription":"Opera"
+		},
+		{	
+			"countryCode":"it",
+			"city":"Milan",
+			"companion":"Hyunjin, Doojae, Nari",
+			"tDate":"2015-06-03",
+			"tDescription":"Steak, Pizza"
+		},
+		{	
+			"countryCode":"it",
+			"city":"Milan",
+			"companion":"Hyunjin, Doojae, Nari",
+			"tDate":"2015-06-04",
+			"tDescription":"Gelato"
+		},
+		{	
+			"countryCode":"it",
+			"city":"Milan",
+			"companion":"Hyunjin, Doojae, Nari",
+			"tDate":"2015-06-05",
+			"tDescription":"Duomo"
+		},
+		{	
+			"countryCode":"be",
+			"city":"Brussels",
+			"companion":"Hyunjin",
+			"tDate":"2015-06-06",
+			"tDescription":"Beer"
+		},
+		{	
+			"countryCode":"be",
+			"city":"Ghent",
+			"companion":"Hyunjin",
+			"tDate":"2015-06-07",
+			"tDescription":"Beer"
+		},
+		{	
+			"countryCode":"be",
+			"city":"Antwerp",
+			"companion":"Hyunjin",
+			"tDate":"2015-06-08",
+			"tDescription":"Beer"
+		},
+		{	
+			"countryCode":"nl",
+			"city":"Amsterdam",
+			"companion":"Hyunjin",
+			"tDate":"2015-06-09",
+			"tDescription":"CoffeShop(Smoke)"
+		},
+		{	
+			"countryCode":"nl",
+			"city":"Rotterdam",
+			"companion":"Hyunjin",
+			"tDate":"2015-06-10",
+			"tDescription":"Frites(Dutch Fries)"
+		},
+		{	
+			"countryCode":"nl",
+			"city":"Rotterdam",
+			"companion":"Hyunjin",
+			"tDate":"2015-06-11",
+			"tDescription":", New York Hotel"
+		}
+	]
+}
